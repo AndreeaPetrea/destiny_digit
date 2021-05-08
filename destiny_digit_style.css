@@ -1,0 +1,12 @@
+.row {
+	margin-top: 0px;
+}
+.btn {
+	border-color: #D94;
+	background-color: #E60; 
+	color: #fff;
+}
+#destiny_digit_meaning, .container, .details {
+	margin: 30px;
+	font-family: sans-serif;
+}
